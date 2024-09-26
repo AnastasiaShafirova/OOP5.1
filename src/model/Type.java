@@ -1,2 +1,8 @@
-package model;public enum Type {
+package model;
+
+public enum Type {
+
+    STUDENT,
+    TEACHER
+
 }
